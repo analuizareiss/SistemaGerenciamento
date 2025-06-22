@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "id": 1750623240069,
+      "name": "Ana",
+      "grades": [
+        10,
+        10,
+        10,
+        10,
+        10
+      ],
+      "attendance": 90
+    },
+    {
+      "id": 1750623261563,
+      "name": "Guilherme",
+      "grades": [
+        9,
+        8,
+        7,
+        6,
+        7
+      ],
+      "attendance": "75"
+    }
+  ]
+}
